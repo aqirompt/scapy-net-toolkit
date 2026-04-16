@@ -1,0 +1,2 @@
+scapy>=2.5.0
+python-whois>=0.9.0
